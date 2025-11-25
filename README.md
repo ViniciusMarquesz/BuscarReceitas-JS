@@ -12,8 +12,6 @@ Um aplicativo web simples feito em **JavaScript**, **HTML** e **CSS** para busca
 - [Como usar / Executar localmente](#como-usar--executar-localmente)  
 - [Estrutura do Projeto](#estrutura-do-projeto)  
 - [Aprendizados](#aprendizados)  
-- [Melhorias Futuras](#melhorias-futuras)  
-- [Licença](#licença)
 
 ---
 
