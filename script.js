@@ -78,11 +78,11 @@ async function getRecipesDetails(id) {
     
     <h2>${recipe.strMeal}</h2>
     <img src="${recipe.strMealThumb}" alt=${recipe.strMeal} class="recipe-img">
-    <h3>Categoria ${recipe.strCategory}</h3>
-    <h3>Origem: ${recipe.strArea}</h3>
+    <h3>Category: ${recipe.strCategory}</h3>
+    <h3>Origin: ${recipe.strArea}</h3>
     <ul>${ingredients}</ul>
     <h3>${recipe.strInstructions}</h3>
-    <p>Tags ${recipe.strTags}</p>
+    <p>Tags: ${recipe.strTags}</p>
     <p>Video: <a href="${recipe.strYoutube}" target="_blank "> Assista no Youtube</a></p>
     
     `;
