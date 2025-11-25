@@ -4,7 +4,7 @@ Um aplicativo web simples feito em **JavaScript**, **HTML** e **CSS** para busca
 
 ---
 
-**Acesse a página:** [https://viniciusmarquesz.github.io/jogo-da-velha/](https://viniciusmarquesz.github.io/jogo-da-velha/)
+**Acesse a página:** [ https://viniciusmarquesz.github.io/BuscarReceitas-JS//]( https://viniciusmarquesz.github.io/BuscarReceitas-JS/)
 
 ---
 
