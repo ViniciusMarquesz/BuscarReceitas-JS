@@ -23,7 +23,8 @@ form.addEventListener("submit", function (event) {
 });
 
 async function searchRecipes(ingredient) {
-  recipeList.innerHTML = `<p>Carregando receitas...</p>`;
+  recipeList.innerHTML = `<p>Uploading recipes
+...</p>`;
 
   const response = await fetch(
     `https://www.themealdb.com/api/json/v1/1/filter.php?i=${ingredient}`
@@ -31,7 +32,7 @@ async function searchRecipes(ingredient) {
 
   const data = await response.json();
   if (!data.meals) {
-    recipeList.innerHTML = "<p>Nenhuma receita encontrada.</p>";
+    recipeList.innerHTML = "<p>No recipes found...</p>";
     return; // Sai da função e não tenta mostrar receitas
   }
 
