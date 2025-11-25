@@ -4,6 +4,10 @@ Um aplicativo web simples feito em **JavaScript**, **HTML** e **CSS** para busca
 
 ---
 
+**Acesse a página:** [https://viniciusmarquesz.github.io/jogo-da-velha/](https://viniciusmarquesz.github.io/jogo-da-velha/)
+
+---
+
 ## Índice
 
 - [Descrição](#descrição)  
